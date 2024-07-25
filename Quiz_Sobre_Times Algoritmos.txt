@@ -12,7 +12,7 @@
 
 //4º condição 
 
-//Se a pergunta já foi formulada e/ou repetir novamente pular essa questão e passar para a próxima
+//Se a pergunta for formúlada então apagar essa pergunta
 
 //5º Passo 
 //Mostrar as opções dessa pergunta 
