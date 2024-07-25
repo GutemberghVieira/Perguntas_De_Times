@@ -23,7 +23,7 @@
 
 //Se ele responder corretamente ele ganha 1 ponto 
 
-//Se for vazio e diferente das questões de letras (a,b,c) mostrar uma mensagem resposta inválida não pontua 
+//Se for vazio e diferente dos caracteres letras (a,b,c) mostrar uma mensagem resposta inválida não pontua 
 
 //Se for incorreta mostrar mensagem você errou! não pontua
 
