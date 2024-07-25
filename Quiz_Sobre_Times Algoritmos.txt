@@ -1,0 +1,48 @@
+
+//Algoritmo Perguntas  de times
+
+//1º Passo
+//Criar uma coleção com trinta perguntas de um  time específico e a resposta para o usuário responder 
+
+//2º Passo 
+//sortear uma pergunta aleatória de 1 a 10
+
+//3º Passo
+//Mostrar Pergunta 
+
+//4º condição 
+
+//Se a pergunta já foi formulada e/ou repetir novamente pular essa questão e passar para a próxima
+
+//5º Passo 
+//Mostrar as opções dessa pergunta 
+
+//6º Peça para usuário responder essa pergunta 
+
+//7º condição 
+
+//Se ele responder corretamente ele ganha 1 ponto 
+
+//Se for vazio e diferente das questões de letras (a,b,c) mostrar uma mensagem resposta inválida não pontua 
+
+//Se for incorreta mostrar mensagem você errou! não pontua
+
+//8º Some todos os pontos que ele conseguiu
+
+//9º condição 
+
+//Se os pontos forem maior que 8 mensagem "Você é fabuloso parabéns você entende muito de Futebol"
+
+//Se os pontos forem maior que 5 e menor que 7 mensagem "Você é mediano entende algumas coisas de Futebol..."
+
+//Se os pontos forem menor que 5 mensagem "Você não entende de futebol!"
+
+//10º condição 
+
+//Pergunte se ele quer continuar
+
+//Se quiser os pontos e as perguntas aleatória passam de um limite de 10 para 20 sendo o máximo de 30 perguntas
+
+//Se ele não quiser pare a aplicação
+
+//Fim do programa Perguntas sobre Times
